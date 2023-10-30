@@ -2,7 +2,8 @@
 #include <locale.h>
 
 
-void    main(){
+void    main()
+{
 	//Declaracao de variaveis
 	int	a = 50;
 	float	b = 4.55;

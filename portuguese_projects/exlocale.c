@@ -2,7 +2,8 @@
 #include <locale.h>
 
 
-int	main() {
+int	main() 
+{
 	setlocale(LC_ALL, "en_US.UTF-8");
 	double	number = 1234.56;
 	printf("Formatted number: %.2f \n", number);
